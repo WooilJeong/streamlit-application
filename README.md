@@ -24,5 +24,4 @@ treamlit run app.py
 
 - GitHub
 - [Streamlit Share](https://share.streamlit.io/)
-
-
+- Application URL: 
